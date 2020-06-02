@@ -2,6 +2,7 @@ package com.zivdekel.ichests;
 
 import com.zivdekel.ichests.commands.VaultCommand;
 import com.zivdekel.ichests.events.guiClickEvent;
+import net.brcdev.shopgui.ShopGuiPlugin;
 import net.brcdev.shopgui.ShopGuiPlusApi;
 import net.brcdev.shopgui.provider.economy.EconomyProvider;
 import net.milkbowl.vault.economy.Economy;

@@ -11,6 +11,7 @@ public class guiClickEvent implements Listener {
 
     private VaultCommand vault;
 
+
     public guiClickEvent(VaultCommand vault) {
         this.vault = vault;
     }

@@ -15,6 +15,8 @@ import org.bukkit.inventory.meta.ItemMeta;
 import java.util.ArrayList;
 
 public class VaultCommand implements CommandExecutor {
+    public Inventory vault;
+
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
 
